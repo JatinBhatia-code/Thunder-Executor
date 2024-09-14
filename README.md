@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on computational projects
 - 📫 How to reach me jatinbhatia01 on linkdln 
 - 😄 Pronouns: he 
-- ⚡ Fun fact: will be the next powerdull man in the world
+- ⚡ Fun fact: will be the next powerful man in the world
 
 <!---
 JatinBhatia-code/JatinBhatia-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
